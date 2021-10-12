@@ -1,1 +1,13 @@
 This repository contains many scripts relating to Rubber Duckies / Bad USB deviced.
+Some details are included below on all the contents of the various weeks:
+
+Week 1:
+  Learning about what a rubber ducky is and how it is used professionally, especially for the purposes of penetration testing.
+
+Week 2:
+  Relating to how to prove you were on a system - i.e., drop a file or calling card proving that the system is vulnerable to such attacks where you had access and were able to
+  create a file on the victim's machine. Included here is a powershell script that will create multiple files on the desktop of a user.
+ 
+Week 3:
+  Relating to reverse shells, why they are better than bind shells, how to set them up using netcat, and how to make a more advances reverse shell through msfvenom
+  and meterpreter. In this week there is an example of a attacking linux machine setting up reverse access shells on a victim Ubuntu box and a Windows 10 box.
