@@ -1,0 +1,7 @@
+This week pertains to writing scripts that will create files and prove that an attacker had access to a machine. If they were able to make a file on the desktop of the user,
+then what else could they have done.
+
+The dropafile.ps1 script in this folder is able to drop a varying amount of files with any message contained with them on the user's desktop of the system that it is run on. In
+theory, it could be run on a victim's computer that a pentration tester has gained access to provide proof in the future that the attacker was there.
+
+Right now, there is no corresponding dropafile script for linux systems, but eventually I plan to work on that and create a similar script that will work for Linux machines.
