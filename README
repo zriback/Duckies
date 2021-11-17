@@ -11,3 +11,8 @@ Week 2:
 Week 3:
   Relating to reverse shells, why they are better than bind shells, how to set them up using netcat, and how to make a more advances reverse shell through msfvenom
   and meterpreter. In this week there is an example of a attacking linux machine setting up reverse access shells on a victim Ubuntu box and a Windows 10 box.
+  
+Week 4:
+  Finally translating everything we have done into ducky scripts. Now, the goal is to be able to do everything that we have done manually through an actual physical USB rubber
+  ducky. This includes the simple calling card powershell script (dropafile.ps1) as well as the more complex task of deploying the payload.exe that is used to established
+  a more advanced meterpreter session on a victims computer.
