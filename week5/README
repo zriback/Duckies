@@ -1,0 +1,6 @@
+This section is about translating the text files containing the raw ducky scripts into arduino sketches (.ino file extension) so they can be put onto the physical ducky through the arduino application. This is done using a public github repository called duck2spark.
+
+This section also contains some basic ducky scripts and what they do.
+
+Scipts in this folder:
+
