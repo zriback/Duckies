@@ -1,0 +1,18 @@
+REM Drop a calling card on the desktop of a victim
+REM We are targetting windows 10 and up with this script
+REM Author: Zach Riback
+DELAY 1000
+GUI r
+DELAY 1000
+STRING notepad
+ENTER
+DELAY 5000
+STRING You have been hacked!
+CTRL s
+DELAY 1000
+STRING duckyfile.txt
+ENTER
+
+
+
+
