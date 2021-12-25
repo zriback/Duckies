@@ -1,9 +1,5 @@
 This section is about translating the text files containing the raw ducky scripts into arduino sketches (.ino file extension) so they can be put onto the physical ducky through the arduino application. This is done using a public github repository called duck2spark.
 
-NOTE: The duck2spark_fixed.py file was not written by me - it was obtained from this public github repository: https://github.com/mame82/duck2spark
-See the "FixingDuck2Spark.pdf" file for the quick fix that needed to be implemented to make this function correctly.
-
-This section also contains some basic ducky scripts and what they do.
-
-Scipts in this folder:
+NOTE: The duck2spark.py file was not written by me - it was obtained from this public github repository: https://github.com/mame82/duck2spark
+However, in this project I used a slightly different version duck2spark_fixed.py that I modified every so slightly. This change is briefly covered in the write up.
 
