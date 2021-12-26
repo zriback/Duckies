@@ -1,2 +1,0 @@
-REM Simply types out a message
-STRING This is the message that I am typing!
