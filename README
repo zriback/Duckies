@@ -1,4 +1,4 @@
-This repository contains many scripts relating to Rubber Duckies / Bad USB deviced.
+This repository contains many scripts relating to Rubber Ducky / Bad USB devices.
 Some details are included below on all the contents of the various weeks:
 
 Week 1:
@@ -14,5 +14,8 @@ Week 3:
   
 Week 4:
   Finally translating everything we have done into ducky scripts. Now, the goal is to be able to do everything that we have done manually through an actual physical USB rubber
-  ducky. This includes the simple calling card powershell script (dropafile.ps1) as well as the more complex task of deploying the payload.exe that is used to established
-  a more advanced meterpreter session on a victims computer.
+  ducky. This includes being able to leave a calling card text file and messing around with basic settings on a victims computer. Eventually it should be possible to use the
+  ducky to deploy reverse access shells (like the meterpreter session payload) from week 3.
+  
+Week 5:
+  Focusing on how to use the physical Digispark device as a USB Rubber Ducky, and how to use it to deploy some of the scripts that we have already written. 
