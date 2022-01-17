@@ -1,0 +1,9 @@
+REM Script designed to Rick Roll the victim
+REM Targeting Windows 10 machines with Google Chrome installed as the web browser
+REM Author: Zach Riback
+DEFAULTDELAY 200
+GUI r
+STRING chrome.exe
+ENTER
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+ENTER
